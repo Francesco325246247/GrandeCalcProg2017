@@ -1,3 +1,5 @@
+###www.mindwareLab.org### VU-University
+
 def calcMyScore():
     totalScore = 0
 
